@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeleniumTutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/SeleniumTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeleniumTutorial_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SeleniumTutorial_main.iml" group="SeleniumTutorial" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeleniumTutorial_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SeleniumTutorial_test.iml" group="SeleniumTutorial" />
     </modules>
   </component>
 </project>
